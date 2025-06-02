@@ -11,7 +11,6 @@
     "require": {
         "php": "^8.1",
         "ext-json": "*",
-        "amphp/amp": "^v3.1",
         "justinrainbow/json-schema": "^6.4",
         "marc-mabe/php-enum": "^v4.7.1"
     },
